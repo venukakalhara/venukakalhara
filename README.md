@@ -2,9 +2,9 @@
 
 ![Venuka Kalhara Jayawardhana](./assets/profile-hero.svg)
 
-**SLIIT Undergraduate · Aspiring Software Developer · Software Testing Enthusiast**
+**Full-Stack Developer · Software Engineer · SLIIT Undergraduate**
 
-Building useful experiences. Asking better questions. Testing the details.
+Turning ideas into applications — from user interfaces to APIs and databases.
 
 [![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-67E8F9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/venukakalhara?tab=repositories)
 [![Connect](https://img.shields.io/badge/LET'S_CONNECT-C4B5FD?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/venukakalhara)
@@ -15,18 +15,18 @@ Building useful experiences. Asking better questions. Testing the details.
 
 ## About me
 
-I'm **Venuka Kalhara Jayawardhana**, an undergraduate at **SLIIT** exploring software development and quality engineering. I enjoy turning ideas into practical digital experiences and understanding what makes them reliable.
+I'm **Venuka Kalhara Jayawardhana**, a **full-stack developer and software engineer** pursuing my undergraduate studies at **SLIIT**. I enjoy connecting thoughtful interfaces with backend logic and data to build useful web and mobile applications.
 
-- **Building** my foundations in programming and web development.
-- **Exploring** manual testing, test automation, and Playwright.
-- **Practicing** functional and usability testing through projects.
-- **Open to** collaboration, shared learning, and new opportunities.
+- **Building** applications across the frontend, backend, and database layers.
+- **Working on** campus platforms, event systems, healthcare workflows, and a mobile marketplace through team projects.
+- **Deepening** my understanding of API design, application architecture, and maintainable code.
+- **Open to** software engineering opportunities and collaboration on practical products.
 
 ```javascript
 const venuka = {
-  focus: ["Web development", "Software quality", "Automation"],
-  approach: "Stay curious. Build with purpose. Test with care.",
-  nextStep: "Turn what I learn into something useful",
+  focus: ["Full-stack development", "Software engineering", "Mobile apps"],
+  interests: ["Frontend experiences", "Backend APIs", "Data-driven applications"],
+  approach: "Understand the problem. Design the solution. Build and improve.",
 };
 ```
 
@@ -36,20 +36,28 @@ const venuka = {
 
 <div align="center">
 
-**LANGUAGES & WEB**
+**FRONTEND & LANGUAGES**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-**TESTING & WORKFLOW**
+**BACKEND & DATABASES**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+**MOBILE & DEVELOPER TOOLS**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Tools I'm learning and using as I build my development practice.
+Technologies I'm working with and learning through individual and team projects.
 
 </div>
 
@@ -70,11 +78,11 @@ Tools I'm learning and using as I build my development practice.
 
 <img src="./assets/flow-divider.svg" width="100%" height="24" alt="" />
 
-## How I'm growing
+## Engineering focus
 
-| Build | Test | Improve |
+| Frontend | Backend & Data | Software Design |
 | :--- | :--- | :--- |
-| Strengthen programming fundamentals and create practical web experiences. | Explore functional checks, usability, and repeatable automation. | Learn through projects, clear communication, and collaboration. |
+| Build responsive interfaces, clear user journeys, and reusable components. | Connect APIs, application logic, and databases into complete workflows. | Develop maintainable code, clear module boundaries, and reliable applications. |
 
 ## GitHub activity
 
@@ -93,13 +101,13 @@ Tools I'm learning and using as I build my development practice.
 
 ## Let's connect
 
-Happy to meet fellow developers, testers, and curious learners. Explore my work or connect with me on **[GitHub](https://github.com/venukakalhara)**.
+Interested in building web and mobile products together? I'm open to full-stack development collaborations and software engineering opportunities. Connect with me on **[GitHub](https://github.com/venukakalhara)**.
 
 <div align="center">
 
 <img src="./assets/flow-divider.svg" width="100%" height="24" alt="" />
 
-**Learn continuously. Build intentionally. Test thoughtfully.**
+**Design with purpose. Build end to end. Keep improving.**
 
 <sub>Thanks for stopping by — see you in the next commit.</sub>
 

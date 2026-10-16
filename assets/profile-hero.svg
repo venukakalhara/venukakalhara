@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Venuka Kalhara Jayawardhana</title>
-  <desc id="desc">Animated midnight-blue profile banner. Learn, build, test, repeat.</desc>
+  <desc id="desc">Animated midnight-blue profile banner for Venuka, Full-Stack Developer and Software Engineer.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#16213d"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
@@ -22,7 +22,7 @@
     <text x="64" y="138" fill="#94a3b8" font-size="20">HELLO, I'M</text>
     <text x="60" y="203" fill="#f1f5f9" font-size="58" font-weight="700" letter-spacing="-2">Venuka Kalhara</text>
     <text x="64" y="246" fill="url(#accent)" font-size="30" font-weight="500" letter-spacing="4">JAYAWARDHANA</text>
-    <text x="64" y="310" fill="#cbd5e1" font-size="17" letter-spacing="2">LEARN. BUILD. TEST. REPEAT.</text>
+    <text x="64" y="310" fill="#cbd5e1" font-size="17" letter-spacing="2">FULL-STACK DEVELOPER / SOFTWARE ENGINEER</text>
     <text x="1070" y="195" text-anchor="middle" fill="#a5f3fc" font-family="Consolas, monospace" font-size="46">&lt;/&gt;</text>
   </g>
   <path d="M64 341H1136" stroke="#334155"/>
