@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Venuka Kalhara Jayawardhana</title>
+  <desc id="desc">Animated midnight-blue profile banner. Learn, build, test, repeat.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#16213d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)">
+    <circle cx="1070" cy="180" r="125" opacity=".16"/>
+    <circle cx="1070" cy="180" r="94" opacity=".3" stroke-dasharray="8 18">
+      <animateTransform attributeName="transform" type="rotate" from="0 1070 180" to="360 1070 180" dur="60s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1070" cy="180" r="62" opacity=".22"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="64" y="53" width="233" height="32" rx="16" fill="#67e8f9" fill-opacity=".08" stroke="#67e8f9" stroke-opacity=".25"/>
+    <circle cx="83" cy="69" r="4" fill="#67e8f9"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+    <text x="98" y="74" fill="#a5f3fc" font-size="12" letter-spacing="2">ALWAYS LEARNING</text>
+    <text x="64" y="138" fill="#94a3b8" font-size="20">HELLO, I'M</text>
+    <text x="60" y="203" fill="#f1f5f9" font-size="58" font-weight="700" letter-spacing="-2">Venuka Kalhara</text>
+    <text x="64" y="246" fill="url(#accent)" font-size="30" font-weight="500" letter-spacing="4">JAYAWARDHANA</text>
+    <text x="64" y="310" fill="#cbd5e1" font-size="17" letter-spacing="2">LEARN. BUILD. TEST. REPEAT.</text>
+    <text x="1070" y="195" text-anchor="middle" fill="#a5f3fc" font-family="Consolas, monospace" font-size="46">&lt;/&gt;</text>
+  </g>
+  <path d="M64 341H1136" stroke="#334155"/>
+  <path d="M64 341H264" stroke="url(#accent)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="d" values="M64 341H264;M936 341H1136;M64 341H264" dur="12s" repeatCount="indefinite"/>
+  </path>
+</svg>
