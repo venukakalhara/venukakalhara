@@ -57,10 +57,10 @@ Tools I'm learning and using as I build my development practice.
 
 | Project | What it's about | Focus |
 | :--- | :--- | :--- |
-| **[Full Playwright Project — ITPM](https://github.com/venukakalhara/Full-Playwright-project-ITPM)** | Practical software testing through Playwright automation. | `Playwright` `Automation` |
-| **[ITPM Assignment 1 — Option 2](https://github.com/venukakalhara/IT23864306_ITPM_Assignment1_Option2)** | Functional and usability testing of PixelsSuite with manual test cases and automation. | `Manual testing` `Usability` |
-| **[ITPM Assignment 1](https://github.com/venukakalhara/ITPM-Assignment-1-IT23864306)** | Hands-on testing work using Playwright-based practices. | `Testing` `Playwright` |
-| **[Smart Campus Operations Hub](https://github.com/Janith854/Smart-Campus-Operations-Hub)** | A full-stack platform for university communication, events, and administrative operations. | `Full stack` `Campus operations` |
+| **[Hasthakala — Artisan & Handicraft Marketplace](https://github.com/venukakalhara/IT3060-HCI-2026-Group28-Hasthakala)** | A mobile marketplace connecting Sri Lankan artisans with craft enthusiasts through product discovery, shopping, and artisan management. | `Flutter` `Firebase` `HCI` |
+| **[Smart Campus Operations Hub](https://github.com/Janith854/Smart-Campus-Operations-Hub)** | A full-stack campus platform bringing university communication, event planning, and administrative workflows into one place. | `Full stack` `Campus operations` |
+| **[UniFlowEvents](https://github.com/Janith854/UniFlowEvents)** | A university event platform with event creation, food pre-orders, parking reservations, and feedback analysis. | `Event management` `React` |
+| **[MediQueue — Dental Clinic](https://github.com/ChethakaLiyanage/ITP-Mediqueue-Dental-Clinic)** | A dental clinic system supporting appointments, patient queues, dentist dashboards, prescriptions, and treatment plans. | `Clinic management` `Patient workflows` |
 
 <div align="center">
 
